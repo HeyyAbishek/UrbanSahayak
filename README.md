@@ -73,7 +73,7 @@ cp .env.example .env
 npx expo start
 ```
 
-Scan the QR code with Expo Go, or press `a` to open it in your Android Emulator.
+*Scan the QR code with Expo Go, or press `w` to launch the application directly in your local web browser for rapid testing.*
 
 ---
 
