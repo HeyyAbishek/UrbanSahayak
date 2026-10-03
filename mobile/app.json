@@ -1,17 +1,17 @@
 {
   "expo": {
-    "name": "PadosiPro",
-    "slug": "padosipro",
+    "name": "UrbanSahayak",
+    "slug": "urbansahayak",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "padosipro",
+    "scheme": "urbansahayak",
     "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "package": "com.padosipro.app",
+      "package": "com.urbansahayak.app",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -43,7 +43,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "fda0f024-0c82-4d1c-a8db-a007deac0516"
+        "projectId": "d46d3462-fd1a-440b-8ab0-490a3f338022"
       }
     }
   }
